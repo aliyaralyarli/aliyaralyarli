@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyaralyarli&show_icons=true&locale=en&layout=compact" alt="aliyaralyarli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyaralyarli&show_icons=true&locale=en" alt="aliyaralyarli" /></p>
-
-<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/pVGsAWjzvXcZW4ZBTE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/perfect-loops-pVGsAWjzvXcZW4ZBTE">via GIPHY</a></p>
